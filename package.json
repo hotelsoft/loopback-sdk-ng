@@ -1,5 +1,5 @@
 {
-  "name": "loopback-sdk-angular",
+  "name": "loopback-sdk-ng",
   "version": "1.10.0",
   "description": "Tool for auto-generating Angular $resource services for LoopBack",
   "main": "index.js",
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-sdk-angular.git"
+    "url": "git://github.com/hotelsoft/loopback-sdk-ng.git"
   },
   "keywords": [
     "loopback",
     "angular"
   ],
-  "author": "Miroslav Bajtos <miroslav@strongloop.com>",
+  "author": "Miroslav Bajtos <miroslav@hotelsoft.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/strongloop/loopback-sdk-angular/issues"
+    "url": "https://github.com/hotelsoft/loopback-sdk-ng/issues"
   },
   "dependencies": {
     "ejs": "^1.0",
